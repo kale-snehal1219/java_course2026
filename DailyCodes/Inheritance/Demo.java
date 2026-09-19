@@ -1,4 +1,4 @@
-package DailyCodes.Inheritance.Demo;
+package DailyCodes.Inheritance;
 
 class Demo {
     int x = 10;
